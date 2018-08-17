@@ -1,6 +1,6 @@
-# e-Rebates Promo #1
+# rebateasaservice.com Landing Page
 
-Write something here...
+Sales and Marketing landing page for rebateasaservice.com to promote the Rebates As A Service offering by EFI.  This is a static site and maintained by the Sales &amp; Marketing team.
 
 
 ## CONTENT/MESSAGING/ARTWORK COPYRIGHT
